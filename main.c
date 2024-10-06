@@ -4,4 +4,5 @@ int main()
 	int s =20;
 	int m =90;
 	int x =10;
+	int f = 70;
 }
