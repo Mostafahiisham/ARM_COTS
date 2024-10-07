@@ -6,4 +6,5 @@ int main()
 	int x =10;
 	int f = 70;
 	int v =200;
+	int l =300;
 }
