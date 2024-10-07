@@ -5,4 +5,5 @@ int main()
 	int m =90;
 	int x =10;
 	int f = 70;
+	int b =200;
 }
