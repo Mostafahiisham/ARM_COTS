@@ -7,4 +7,5 @@ int main()
 	int f = 70;
 	int v =200;
 	int l =300;
+	int Mm =1000;
 }
